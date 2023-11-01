@@ -5,7 +5,7 @@ export default function categories() {
     <div className="flex flex-col items-center py-20 gap-8 w-390 max-w-1400 h-1273.5 min-h-650 bg-[#F4E5EC] rounded-b-16">
       <h2 className="text-32 font-playfair font-extrabold text-center text-[#0F172A] w-225 h-43">Top Categories</h2>
       <p className="text-base font-poppins font-normal leading-24 text-center text-[#64748B] w-345 max-w-358 h-24 m-8">
-        Browse a diverse range of categories, from chic dresses to versatile accessories. Elevate your style today!
+        Browse a diverse ra nge of categories, from chic dresses to versatile accessories. Elevate your style today!
       </p>
       <div className="flex gap-8">
         <div className="bg-[#F4E5EC] rounded-md pb-2 flex-1">
